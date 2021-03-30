@@ -1,0 +1,6 @@
+To Run The Application
+===============================
+        Please ensure that you have installed react-native-cli
+
+        step 1 => npm install
+        step 2 => npx react-native run-android
